@@ -1,3 +1,4 @@
+//Implement an algorithm to determin if a string has all unique charecter. What if you cannot use additional data structure.
 import java.util.Scanner;
 class UniqueChecker{
     int fag = 0;
@@ -25,5 +26,3 @@ public class Main
 	    UniqueChecker obj = new UniqueChecker();
 	}
 }
-
-
